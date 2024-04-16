@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Projects\\POCs\\TelePrompt\\TelePrompt\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{166F62F5-F31E-4029-A4A2-00216FFBDB8C}|TelePrompt\\TelePrompt\\TelePrompt.csproj|c:\\projects\\pocs\\teleprompt\\teleprompt\\teleprompt\\teleprompt\\app.axaml||{6D5344A2-2FCD-49DE-A09D-6A14FD1B1224}",
+      "RelativeMoniker": "D:0:0:{166F62F5-F31E-4029-A4A2-00216FFBDB8C}|TelePrompt\\TelePrompt\\TelePrompt.csproj|solutionrelative:teleprompt\\teleprompt\\app.axaml||{6D5344A2-2FCD-49DE-A09D-6A14FD1B1224}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{166F62F5-F31E-4029-A4A2-00216FFBDB8C}|TelePrompt\\TelePrompt\\TelePrompt.csproj|C:\\Projects\\POCs\\TelePrompt\\TelePrompt\\teleprompt\\teleprompt\\app.axaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{166F62F5-F31E-4029-A4A2-00216FFBDB8C}|TelePrompt\\TelePrompt\\TelePrompt.csproj|solutionrelative:teleprompt\\teleprompt\\app.axaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{166F62F5-F31E-4029-A4A2-00216FFBDB8C}|TelePrompt\\TelePrompt\\TelePrompt.csproj|C:\\Projects\\POCs\\TelePrompt\\TelePrompt\\teleprompt\\teleprompt\\views\\mainview.axaml||{6D5344A2-2FCD-49DE-A09D-6A14FD1B1224}",
+      "RelativeMoniker": "D:0:0:{166F62F5-F31E-4029-A4A2-00216FFBDB8C}|TelePrompt\\TelePrompt\\TelePrompt.csproj|solutionrelative:teleprompt\\teleprompt\\views\\mainview.axaml||{6D5344A2-2FCD-49DE-A09D-6A14FD1B1224}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{166F62F5-F31E-4029-A4A2-00216FFBDB8C}|TelePrompt\\TelePrompt\\TelePrompt.csproj|C:\\Projects\\POCs\\TelePrompt\\TelePrompt\\teleprompt\\teleprompt\\viewmodels\\mainviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{166F62F5-F31E-4029-A4A2-00216FFBDB8C}|TelePrompt\\TelePrompt\\TelePrompt.csproj|solutionrelative:teleprompt\\teleprompt\\viewmodels\\mainviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 10,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:134:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "App.axaml.cs",
+              "DocumentMoniker": "C:\\Projects\\POCs\\TelePrompt\\TelePrompt\\TelePrompt\\TelePrompt\\App.axaml.cs",
+              "RelativeDocumentMoniker": "TelePrompt\\TelePrompt\\App.axaml.cs",
+              "ToolTip": "C:\\Projects\\POCs\\TelePrompt\\TelePrompt\\TelePrompt\\TelePrompt\\App.axaml.cs",
+              "RelativeToolTip": "TelePrompt\\TelePrompt\\App.axaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-11T17:20:23.023Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "App.axaml",
+              "DocumentMoniker": "C:\\Projects\\POCs\\TelePrompt\\TelePrompt\\TelePrompt\\TelePrompt\\App.axaml",
+              "RelativeDocumentMoniker": "TelePrompt\\TelePrompt\\App.axaml",
+              "ToolTip": "C:\\Projects\\POCs\\TelePrompt\\TelePrompt\\TelePrompt\\TelePrompt\\App.axaml",
+              "RelativeToolTip": "TelePrompt\\TelePrompt\\App.axaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-04-11T17:15:53.174Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainView.axaml",
+              "DocumentMoniker": "C:\\Projects\\POCs\\TelePrompt\\TelePrompt\\TelePrompt\\TelePrompt\\Views\\MainView.axaml",
+              "RelativeDocumentMoniker": "TelePrompt\\TelePrompt\\Views\\MainView.axaml",
+              "ToolTip": "C:\\Projects\\POCs\\TelePrompt\\TelePrompt\\TelePrompt\\TelePrompt\\Views\\MainView.axaml",
+              "RelativeToolTip": "TelePrompt\\TelePrompt\\Views\\MainView.axaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-04-11T13:27:13.684Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainViewModel.cs",
+              "DocumentMoniker": "C:\\Projects\\POCs\\TelePrompt\\TelePrompt\\TelePrompt\\TelePrompt\\ViewModels\\MainViewModel.cs",
+              "RelativeDocumentMoniker": "TelePrompt\\TelePrompt\\ViewModels\\MainViewModel.cs",
+              "ToolTip": "C:\\Projects\\POCs\\TelePrompt\\TelePrompt\\TelePrompt\\TelePrompt\\ViewModels\\MainViewModel.cs",
+              "RelativeToolTip": "TelePrompt\\TelePrompt\\ViewModels\\MainViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-11T13:27:11.786Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

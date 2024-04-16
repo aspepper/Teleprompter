@@ -1,0 +1,56 @@
+<UserControl
+    x:Class="Teleprompter.Views.MainView"
+    xmlns="https://github.com/avaloniaui"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    xmlns:vm="clr-namespace:Teleprompter.ViewModels"
+    d:DesignHeight="800"
+    d:DesignWidth="1280"
+    x:DataType="vm:MainViewModel"
+    mc:Ignorable="d">
+    <Design.DataContext>
+        <!--
+            This only sets the DataContext for the previewer in an IDE,
+            to set the actual DataContext for runtime, set the DataContext property in code (look at App.axaml.cs)
+        -->
+        <vm:MainViewModel />
+    </Design.DataContext>
+
+    <Viewbox Stretch="Uniform" StretchDirection="Both">
+        <DockPanel>
+            <Grid
+                Width="300"
+                Height="800"
+                DockPanel.Dock="Left"
+                RowDefinitions="50,50,50,50,Auto">
+                <TextBlock
+                    Grid.Row="0"
+                    HorizontalAlignment="Center"
+                    VerticalAlignment="Center"
+                    FontFamily="{StaticResource Roboto}"
+                    FontSize="18"
+                    Text="Teste" />
+            </Grid>
+            <Grid
+                Width="980"
+                Height="800"
+                DockPanel.Dock="Right"
+                RowDefinitions="20,*">
+
+                <TextBlock
+                    Grid.Row="0"
+                    Margin="3,5"
+                    HorizontalAlignment="Left"
+                    VerticalAlignment="Center"
+                    Text="Texto" />
+                <TextBox
+                    Grid.Row="1"
+                    Margin="5,10"
+                    HorizontalAlignment="Stretch"
+                    VerticalAlignment="Stretch" />
+
+            </Grid>
+        </DockPanel>
+    </Viewbox>
+</UserControl>

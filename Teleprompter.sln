@@ -1,0 +1,53 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Teleprompter", "Teleprompter\Teleprompter\Teleprompter.csproj", "{166F62F5-F31E-4029-A4A2-00216FFBDB8C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Teleprompter.Android", "Teleprompter\Teleprompter.Android\Teleprompter.Android.csproj", "{95F89ED2-4FD6-46D1-A3F9-DA0A262D0483}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Teleprompter.Desktop", "Teleprompter\Teleprompter.Desktop\Teleprompter.Desktop.csproj", "{54BF866D-F9DB-4DE0-8EAB-B4CCE25338F2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Teleprompter.iOS", "Teleprompter\Teleprompter.iOS\Teleprompter.iOS.csproj", "{CB047C58-F079-4F9C-AE68-C1887B881819}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Teleprompter.Browser", "Teleprompter\Teleprompter.Browser\Teleprompter.Browser.csproj", "{06C48D96-E627-4FC0-A23D-240CE8BC23B7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{166F62F5-F31E-4029-A4A2-00216FFBDB8C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{166F62F5-F31E-4029-A4A2-00216FFBDB8C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{166F62F5-F31E-4029-A4A2-00216FFBDB8C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{166F62F5-F31E-4029-A4A2-00216FFBDB8C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{95F89ED2-4FD6-46D1-A3F9-DA0A262D0483}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{95F89ED2-4FD6-46D1-A3F9-DA0A262D0483}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{95F89ED2-4FD6-46D1-A3F9-DA0A262D0483}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{95F89ED2-4FD6-46D1-A3F9-DA0A262D0483}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{95F89ED2-4FD6-46D1-A3F9-DA0A262D0483}.Release|Any CPU.Build.0 = Release|Any CPU
+		{95F89ED2-4FD6-46D1-A3F9-DA0A262D0483}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{54BF866D-F9DB-4DE0-8EAB-B4CCE25338F2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{54BF866D-F9DB-4DE0-8EAB-B4CCE25338F2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{54BF866D-F9DB-4DE0-8EAB-B4CCE25338F2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{54BF866D-F9DB-4DE0-8EAB-B4CCE25338F2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CB047C58-F079-4F9C-AE68-C1887B881819}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CB047C58-F079-4F9C-AE68-C1887B881819}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CB047C58-F079-4F9C-AE68-C1887B881819}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{CB047C58-F079-4F9C-AE68-C1887B881819}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CB047C58-F079-4F9C-AE68-C1887B881819}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CB047C58-F079-4F9C-AE68-C1887B881819}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{06C48D96-E627-4FC0-A23D-240CE8BC23B7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{06C48D96-E627-4FC0-A23D-240CE8BC23B7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{06C48D96-E627-4FC0-A23D-240CE8BC23B7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{06C48D96-E627-4FC0-A23D-240CE8BC23B7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FCFAB34C-E84B-4223-8E5C-A32022AA0DCA}
+	EndGlobalSection
+EndGlobal

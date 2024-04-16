@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Projects\\POCs\\Teleprompter\\Teleprompter\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{166F62F5-F31E-4029-A4A2-00216FFBDB8C}|Teleprompter\\Teleprompter\\Teleprompter.csproj|c:\\projects\\pocs\\teleprompter\\teleprompter\\teleprompter\\teleprompter\\views\\mainview.axaml||{6D5344A2-2FCD-49DE-A09D-6A14FD1B1224}",
+      "RelativeMoniker": "D:0:0:{166F62F5-F31E-4029-A4A2-00216FFBDB8C}|Teleprompter\\Teleprompter\\Teleprompter.csproj|solutionrelative:teleprompter\\teleprompter\\views\\mainview.axaml||{6D5344A2-2FCD-49DE-A09D-6A14FD1B1224}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{166F62F5-F31E-4029-A4A2-00216FFBDB8C}|Teleprompter\\Teleprompter\\Teleprompter.csproj|c:\\projects\\pocs\\teleprompter\\teleprompter\\teleprompter\\teleprompter\\app.axaml||{6D5344A2-2FCD-49DE-A09D-6A14FD1B1224}",
+      "RelativeMoniker": "D:0:0:{166F62F5-F31E-4029-A4A2-00216FFBDB8C}|Teleprompter\\Teleprompter\\Teleprompter.csproj|solutionrelative:teleprompter\\teleprompter\\app.axaml||{6D5344A2-2FCD-49DE-A09D-6A14FD1B1224}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{166F62F5-F31E-4029-A4A2-00216FFBDB8C}|Teleprompter\\Teleprompter\\Teleprompter.csproj|c:\\projects\\pocs\\teleprompter\\teleprompter\\teleprompter\\teleprompter\\views\\mainview.axaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{166F62F5-F31E-4029-A4A2-00216FFBDB8C}|Teleprompter\\Teleprompter\\Teleprompter.csproj|solutionrelative:teleprompter\\teleprompter\\views\\mainview.axaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:134:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainView.axaml",
+              "DocumentMoniker": "C:\\Projects\\POCs\\Teleprompter\\Teleprompter\\Teleprompter\\Teleprompter\\Views\\MainView.axaml",
+              "RelativeDocumentMoniker": "Teleprompter\\Teleprompter\\Views\\MainView.axaml",
+              "ToolTip": "C:\\Projects\\POCs\\Teleprompter\\Teleprompter\\Teleprompter\\Teleprompter\\Views\\MainView.axaml",
+              "RelativeToolTip": "Teleprompter\\Teleprompter\\Views\\MainView.axaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-04-16T17:30:17.913Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "App.axaml",
+              "DocumentMoniker": "C:\\Projects\\POCs\\Teleprompter\\Teleprompter\\Teleprompter\\Teleprompter\\App.axaml",
+              "RelativeDocumentMoniker": "Teleprompter\\Teleprompter\\App.axaml",
+              "ToolTip": "C:\\Projects\\POCs\\Teleprompter\\Teleprompter\\Teleprompter\\Teleprompter\\App.axaml",
+              "RelativeToolTip": "Teleprompter\\Teleprompter\\App.axaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-04-16T17:29:40.596Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainView.axaml.cs",
+              "DocumentMoniker": "C:\\Projects\\POCs\\Teleprompter\\Teleprompter\\Teleprompter\\Teleprompter\\Views\\MainView.axaml.cs",
+              "RelativeDocumentMoniker": "Teleprompter\\Teleprompter\\Views\\MainView.axaml.cs",
+              "ToolTip": "C:\\Projects\\POCs\\Teleprompter\\Teleprompter\\Teleprompter\\Teleprompter\\Views\\MainView.axaml.cs",
+              "RelativeToolTip": "Teleprompter\\Teleprompter\\Views\\MainView.axaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-16T17:25:38.087Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
